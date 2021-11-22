@@ -1,6 +1,10 @@
 👋 Hi, I’m @hdddhdd
+
 💻 KNU Computer (Korea)
+
 📫 Instagram @pp0ror0_x
+
+💨 Language : C, Java, Python 
 
 <!---
 hdddhdd/hdddhdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
