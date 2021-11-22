@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hdddhdd
-- 💻 KNU Computer (Korea)
-- 🌱 I’m currently learning ...
-- 📫 Instagram @pp0ror0_x
+👋 Hi, I’m @hdddhdd
+💻 KNU Computer (Korea)
+📫 Instagram @pp0ror0_x
 
 <!---
 hdddhdd/hdddhdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
