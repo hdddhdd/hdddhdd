@@ -3,4 +3,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdddhdd&show_icons=true&theme=transparent)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={hdddhdd})](https://solved.ac/{hdddhdd})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hdddhdd)](https://solved.ac/hdddhdd)
