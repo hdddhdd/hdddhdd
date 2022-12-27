@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=300&section=header&text=Hdddhdd%20&fontSize=90&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=300&section=header&text=Hdddhdd%20&fontSize=90&fontColor=000000)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdddhdd&show_icons=true&theme=graywhite)
 
