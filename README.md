@@ -32,17 +32,23 @@
 * 2022 대구를 빛내는 SW해커톤 최우수상 🏆(2022.10.)
 * Girls in ICT 2022 해커톤 본선진출 (2022.10.)
 * 현대모비스 - 경북대학교 컴퓨터학부 종합설계프로젝트2 우수 프로젝트 경진대회 우수상 🏆 (2022.12.)
+* UCWIT2022 골목길에서 노드 이동성을 고려한 5G 기반 사고 위험 예측 모델 성능 평가 📄 (2022.11.)
+* 가상 환경을 통한 커스텀 학습 데이터 생성 및 기계 학습의 유효성 검증 📄 (2022.11.)
 
 
-<h3>Community 🎙️ </h3>
+<h3>동아리 및 기타 활동 🎙️ </h3>
 
-* GDG Daegu Organizer (2023.3 ~)
+* 👩🏻‍🏫 경북대학교 컴퓨터학부 SW교육봉사동아리 L&C (2020.11. ~ ) / 2021 교육팀장, 2022 회장
+* 🌊 경북대학교 컴퓨터학부 SW창업동아리 GET IT (2022.3. ~ 2022.12.) / 2022 부회장
+* 🦁 경북대학교 멋쟁이 사자처럼 10기/ Backend
+* Bunnython 운영진 (2023.2.)
+* GDG Daegu Organizer (2023.3. ~)
+* (주)해달프로그래밍 인턴 (2022.7. ~ 2022.8.)
+* (주)해달프로그래밍 교육팀 팀원 (2022.11. ~ 2023.11.)
 
-  
 
 
-
-
+<br> <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdddhdd&show_icons=true&theme=graywhite) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdddhdd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
