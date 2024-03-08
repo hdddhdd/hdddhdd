@@ -11,7 +11,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhdddhdd&count_bg=%23192CFF&title_bg=%239A9A9A&icon=flathub.svg&icon_color=%23000000&title=hits&edge_flat=false)
 
 <h3> 기술 스택 ⚒️ </h3>
-공사중이에요 뚝딱뚝딱 곧 올릴게요 하핫
+
 
 
 
@@ -52,4 +52,4 @@
 
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hdddhdd)](https://solved.ac/hdddhdd)
+
