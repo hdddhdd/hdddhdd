@@ -1,6 +1,5 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=03045e&height=200&section=header&text=hdddhdd&fontSize=90&fontColor=FFFFFF)
 
 <div align="center">
 
@@ -32,4 +31,5 @@
 
 
 <br> <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
